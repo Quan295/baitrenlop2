@@ -1,0 +1,26 @@
+/* Styles for all odd numbered elements */
+.odd-element {
+    background-color: rgb(255, 182, 193); /* Light red/pink */
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* Specific styles for the second element */
+#element2 {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Styles for the third element */
+#element3 {
+    font-size: 24px; /* In addition to odd-element styles */
+}
+
+/* Styles for the fourth element */
+#element4 {
+    background-color: rgb(144, 238, 144); /* Light green */
+    font-size: 24px;
+    font-weight: bold; /* Bold text */
+}
+
+  
+  
